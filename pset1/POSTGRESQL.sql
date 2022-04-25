@@ -8,7 +8,8 @@ CREATE TABLE `funcionarios` (
   nome_meio char(1) DEFAULT NULL,
   ultimo_nome varchar(15) NOT NULL,
   data_nascimento date DEFAULT NULL,
-  endereco varchar(50) DEFAULT NULL, /* Aumentei o tamanho do endereço pois estava dando erro na hora de inserir os dados */
+  endereco varchar(50) DEFAULT NULL, 
+  /* Aumentei o tamanho do endereço pois estava dando erro na hora de inserir os dados */
   sexo char(1) DEFAULT NULL,
   salario decimal(10,2) NOT NULL,
   cpf_supervisor char(11) NOT NULL,
