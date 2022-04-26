@@ -5,4 +5,4 @@
 
 # Sobre o projeto
 O trabalho foi elaborado fazendo uso da máquina virtual do dbserver, utilizando-se do **DBeaver** e do **SQLPowerArchitect** para realizar os bancos de dados e o esquema que foram requisitados nas instruções pelo professor.
-> Obs.: O power architect precisou ser executado no windows uma vez que não consegui transferir o arquivoda maquina virtual para o desktop.
+> Obs.: O power architect precisou ser executado no Windows uma vez que não consegui transferir o arquivo da máquina virtual para o desktop.
