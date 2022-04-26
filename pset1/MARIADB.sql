@@ -1,5 +1,7 @@
 CREATE DATABASE `uvv` /*!40100 DEFAULT CHARACTER SET latin1 */;
 
+USE `uvv`;
+
 -- CRIAÇÃO TABELA FUNCIONÁRIOS
 CREATE TABLE `funcionarios` (
   `cpf` char(11) NOT NULL,
